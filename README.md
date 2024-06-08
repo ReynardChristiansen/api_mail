@@ -16,6 +16,10 @@ Sending an email require a request body in the following format:
         "message": STRING
     }
 
+# Frontend
+
+Check out the frontend website : https://mail-sending-two.vercel.app/
+
 
 
 ## Feedback
